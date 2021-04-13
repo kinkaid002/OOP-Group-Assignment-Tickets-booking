@@ -1,0 +1,37 @@
+**********************************************************************************************************
+**********************************************************************************************************
+**												  	**
+**		           	International Holiday Services Private Limited			  	**
+**				  	   22,Bandra Kurla Complex				  	**
+**				    	  Bandra(East), Mumbai		  		 	  	**
+**				     	  Maharashtra-400051					  	**
+**______________________________________________________________________________________________________**
+**												  	**
+**	Name    : NNNNNNNNNNNNN						Date     : 11111111	  	**
+**									Gender   :  22222222	  	**
+**	Book Id : IIIII							Mobile No. 3333333333	  	**
+**									Service  : HHHHHH	  	**
+**______________________________________________________________________________________________________**
+**												  	**
+**	Booking Details:										**
+**												  	**
+**	Flight Name : FFFFFFFF	 								  	**
+**	Flight No.      Date      Check In   Origin   Destination   Duration    Passenger     Cost	**
+**	XXXXXX	      YYYYYYYY  ZZZZZZ    VVVVVV    WWWWWW      DDDDDD        SSSS       Rs. EEEEE   **
+**												  	**
+**	Note:											  	**
+**	1.By accepting our booking terms, user is also agreeing to terms & conditions of the respective **
+**	  airline.								  			**
+**	2.As per the airline rules, the standard check-in time begins 2 hours before departure for   	**
+**	  domestic flights.									  	**
+**	3.For International flights, the check-in time is 3 hours before departure.		  	**
+**												  	**
+**												  	**
+**					Thank You for Booking with Us!					**
+**						Visit Again						**
+**______________________________________________________________________________________________________**
+**email : help@internationalholiday.com                   	Helpline : 1800 201 9696, 1860 201 9696	**
+**												  	**
+**********************************************************************************************************
+**********************************************************************************************************
+		  	**Computer Generated Ticket No Signature Required**
